@@ -1,1 +1,2 @@
-# 2048
+# hello-world
+Hello world new project template.
